@@ -1,0 +1,62 @@
+卷 DATA 的文件夹 PATH 列表
+卷序列号为 0E38-10C6
+D:\NEW\NEW4\PPL\MUA_INTERPRETER\SRC\COM\COMPANY
+│  CmdExecute.java
+│  Data.java
+│  MUA.java
+│  MyArray.java
+│  OperatorBind.java
+│  OperExecute.java
+│  Parse.java
+│  tree.txt
+│  
+└─DetailCommand
+        AddExecute.java
+        AndExecute.java
+        ButfirstExecute.java
+        ButlastExecute.java
+        DivExecute.java
+        EqExecute.java
+        ErallExecute.java
+        EraseExecute.java
+        ExportExecute.java
+        FirstExecute.java
+        GtExecute.java
+        IfExecute.java
+        IntExecute.java
+        IsboolExecute.java
+        IsemptyExecute.java
+        IslistExecute.java
+        IsnameExecute.java
+        IsnumberExecute.java
+        IswordExecute.java
+        JoinExecute.java
+        JudgeType.java
+        LastExecute.java
+        ListExecute.java
+        LoadExecute.java
+        LtExecute.java
+        MakeExecute.java
+        ModExecute.java
+        MulExecute.java
+        NotExecute.java
+        OrExecute.java
+        OutputExecute.java
+        PiExecute.java
+        PoallExecute.java
+        PrintExecute.java
+        RandomExecute.java
+        ReadExecute.java
+        ReadlistExecute.java
+        RepeatExecute.java
+        RunExecute.java
+        SaveExecute.java
+        SentenceExecute.java
+        SqrtExecute.java
+        StopExecute.java
+        SubExecute.java
+        ThingExecute.java
+        WaitExecute.java
+        WordExecute.java
+
+make "func [ [ a b ] [ make "c add :a :b output add :a :c export "c stop output add :a :b export "b ] ]
